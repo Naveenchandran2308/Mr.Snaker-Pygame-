@@ -1,0 +1,12 @@
+READ ME :
+MR.Snaker - Snake Game made in Python (pygame)
+A classic snake game made in "Python" and "Pygame" Featuring levels.
+
+Features:
+-Constant snake moment.
+-Multiple levels (level displayed on screen).
+-Gamer over screen with music.
+Fancy Looking Fonts for UI and level Messages.
+Crystal food with sound effects.
+Score tracking.
+
